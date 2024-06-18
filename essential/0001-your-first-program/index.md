@@ -9,9 +9,13 @@
 
 <div>
     <img height="13px"  src="../../assets/dart/dart.svg"/>
-    <img align="right" height="30px"  src="../../assets/dart/mascot.png"/>
+    <img align="right" height="30px"  src="../../assets/dart/mascot.svg"/>
 </div>
-
+<h6>Test</h6>
+<div>
+    <img height="13px"  src="../../assets/kotlin/kotlin.svg"/>
+    <img align="right" height="30px"  src="../../assets/kotlin/mascot.svg"/>
+</div>
 
 
 </body>
