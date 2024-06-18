@@ -1,19 +1,17 @@
-<body style="background-color:#ffffff;">
+<body>
 
-<span style="margin-top:48px;font-family: 'Arial'; height: auto;align-self: stretch;text-align: left;font-size: 8px;letter-spacing: 5%;font-weight: 600;line-height: auto;color: #606D7E;">
-    <span>Chapter 0001</span>
-</span>
+<h6>Chapter 0001</h6>
 
 
 <hr style="height:2px;border-width:0;color:#606D7E;background-color:#606D7E">
 
-<h1 class="title-text">Hello World!!</h1>
+<h1>Hello World!!</h1>
 
-<div style="color: #5CC6F7;">
+<div>
     <span>Dart</span>   
 </div>
-<div style="color: #7B5FCD;">
-    <span>Kotlin</span>   
+<div>
+    <img width="10%" src="../../assets/kotlin/kotlin.svg"/>
 </div>
 
 </body>
