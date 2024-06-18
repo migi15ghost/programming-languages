@@ -7,12 +7,10 @@
 
 <h1>Hello World!!</h1>
 
-<div>
-    <span>Dart</span>   
-</div>
-<div>
-    <img width="10%" src="../../assets/kotlin/kotlin.svg"/>
-</div>
+<img style="float:left;" height="13px"  src="../../assets/dart/dart.svg"/>
+<img style="float:right;" height="30px"  src="../../assets/dart/mascot.png"/>
+
+
 
 </body>
 
