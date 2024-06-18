@@ -7,8 +7,10 @@
 
 <h1>Hello World!!</h1>
 
-<img style="float:left;" height="13px"  src="../../assets/dart/dart.svg"/>
-<img style="float:right;" height="30px"  src="../../assets/dart/mascot.png"/>
+<div>
+    <img height="13px"  src="../../assets/dart/dart.svg"/>
+    <img align="right" height="30px"  src="../../assets/dart/mascot.png"/>
+</div>
 
 
 
