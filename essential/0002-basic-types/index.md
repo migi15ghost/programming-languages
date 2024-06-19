@@ -12,11 +12,11 @@
 </div>
 
 <p>
-All languagues need to have builtin types.Types are used to represent values.
+All languages need to have built in types.Types are used to represent values.
 Some examples are number, Boolean,characters and String.
 
 * numbers(Int, Long, Double, Float Short, Byte)
-  - In numbers depenps which your choise this determines the size(bits) of the number, min value and max value.
+  - In numbers depends which your choose this determines the size(bits) of the number, min value and max value.
      - Int .- 32:bits, min:-2,147,483,648, max:2,147,483,647
      - Long .- 64:bits, min:-9,223,372,036,854,775,808, max:9,223,372,036,854,775,807
      - Short .- 16:bits, min:-32768, max:32767
@@ -37,13 +37,13 @@ Some examples are number, Boolean,characters and String.
 <br>
 
 <p>
-For declare this basic types we need to use val or var keyboard. 
+For declare this basic types we need to use val or var word. 
  
  - Val("value").- read-only you cannot modify the value
  - Var("variable").- read-write you can modify the value
 </p>
 <p>
-This form allow create types. Without declare Int,Long...
+This way allow create types. Without declare Int,Long...
 </p>
 
 <table bgcolor="#7B5FCD"><tr><td> <a color='#ffffff' href="https://play.kotlinlang.org/#eyJ2ZXJzaW9uIjoiMi4wLjAiLCJwbGF0Zm9ybSI6ImphdmEiLCJhcmdzIjoiIiwibm9uZU1hcmtlcnMiOnRydWUsInRoZW1lIjoiaWRlYSIsImNvZGUiOiJmdW4gbWFpbigpIHtcbiAgICBwcmludChcIkhlbGxvLCB3b3JsZCEhIVwiKVxufSJ9">
