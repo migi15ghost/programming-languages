@@ -16,22 +16,42 @@ Hello World!! is likely the most famous program and you can programming the foll
 </p>
 
 <div>
-    <img height="13px"  src="../../assets/dart/dart.svg"/>
+    <img align="left" height="13px"  src="../../assets/dart/dart.svg"/>
     <img align="right" height="30px"  src="../../assets/dart/mascot.svg"/>
 </div>
+<br>
+
 ```dart
 void main() {
-  print('Hello, World!!!');
+  print('Hello, world!!!');
 }
 ```
+<table bgcolor="#5CC6F7"><tr><td> <a color='#ffffff' href="https://dartpad.dev/">
+  <font color="black"><i>&#9654;</i> Run </font>
+</a></td></tr><table>
+
+```
+Hello, world!!!
+```
+
 <div>
-    <img height="13px"  src="../../assets/kotlin/kotlin.svg"/>
-    <img align="right" height="30px"  src="../../assets/kotlin/mascot.svg"/>
+    <img align="left" height="13px"  src="../../assets/kotlin/kotlin.svg"/>
+    <img align="right" height="30px"  src="../../assets/kotlin/mascot.svg"/>    
 </div>
+
+<br>
+
 ```kt
 fun main() {
-    println("Hello, world!!!")
+    print("Hello, world!!!")
 }
+```
+<table bgcolor="#7B5FCD"><tr><td> <a color='#ffffff' href="https://play.kotlinlang.org/#eyJ2ZXJzaW9uIjoiMi4wLjAiLCJwbGF0Zm9ybSI6ImphdmEiLCJhcmdzIjoiIiwibm9uZU1hcmtlcnMiOnRydWUsInRoZW1lIjoiaWRlYSIsImNvZGUiOiJmdW4gbWFpbigpIHtcbiAgICBwcmludChcIkhlbGxvLCB3b3JsZCEhIVwiKVxufSJ9">
+  <font color="white"><i>&#9654;</i> Run </font>
+</a></td></tr><table>
+
+```
+Hello, world!!!
 ```
 
 
